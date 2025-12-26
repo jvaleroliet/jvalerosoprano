@@ -1,7 +1,7 @@
 ---
 layout: default 
-event: Winterreise
+event: under 
 date: 22 Jan 2025
-location: Philharmonie, Berlin
+location: ---
 link: https://www.google.com/
 ---
